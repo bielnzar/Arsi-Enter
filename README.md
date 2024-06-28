@@ -1,9 +1,7 @@
-## Arsitektur Enterprise - 2024
+# Arsitektur Enterprise - 2024
 
-Mata Kuliah Arsitektur Enterprise 
+### Mata Kuliah Arsitektur Enterprise 
 
-Departemen Teknologi Informasi
-
-Institut Teknologi Sepuluh Nopember
+Departemen Teknologi Informasi - Institut Teknologi Sepuluh Nopember
 
 Dosen Pengampu : Ir. Khakim Ghozali, M.MT
