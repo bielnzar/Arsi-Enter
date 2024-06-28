@@ -1,6 +1,4 @@
-<div align = center>
-  # Arsitektur-Enterprise
-</div>
+# Arsitektur-Enterprise
 
 Mata Kuliah Arsitektur Enterprise
 Departemen Teknologi Informasi
