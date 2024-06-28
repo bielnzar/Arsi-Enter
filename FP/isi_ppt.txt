@@ -1,0 +1,47 @@
+- Pembukaan
+- Preliminary
+
+ARCHITECTUR VISION
+- Solution Concept Diagram
+- Value Chain Diagram
+- Stakeholder Map Matrix
+
+BUSINESS ARCHITECTURE
+- Business Dictionary Diagram
+- Business Entity Diagram
+- Functional Decomposition Diagram
+- Business Footprint Diagram
+- Goal/Objective/Service Diagram
+- Actor Catalog
+- Actor Organization Diagram
+- Organization Decomposition Diagram - Role Allocation
+- Business Use Case Diagram
+- Organization Role Diagram
+- Location Organization Diagram
+- Location Diagram
+- Process Flow Diagram 
+- Event Diagram 
+- Business Service Diagram
+
+Data Architecture
+- Logical Data Diagram
+- Data Dissemination Diagram
+- Data Security Diagram
+- Data Security Table
+- Data Migration Diagram
+- Service Data Diagram
+
+Application Architecture :
+- Application Communication Diagram
+- Application Migration Diagram
+- Application User Location Diagram
+- System Use Case Diagram
+- Process System Realization Diagram 
+- Enterprise Manageability Diagram
+
+TECHNOLOGY ARCHITECTURE
+- Environment and Location Diagram 
+- Processing Diagram
+- Network Computing Hardware Diagram
+
+- Penutup
